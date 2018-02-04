@@ -1,1 +1,1 @@
-# jc-notes
+The repository `jc-notes` contains the code related to the ["JC Notes" blog](https://jcnts.wordpress.com/).
